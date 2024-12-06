@@ -1,0 +1,5 @@
+MMM-Carousel  
+mmm-hue-lights  
+MMM-NewPIR  
+MMM-PIR-Sensor  
+MMM-YrThen
